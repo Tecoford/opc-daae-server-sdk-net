@@ -13,7 +13,17 @@ The OPC server is supplied as an EXE file with the application adaptation part i
 The OPC DA/AE Server SDK .NET follows a dual-license: 
 
 #### Binaries
-The OPC DA/AE Server SDK .NET is licensed under the MIT License. A very liberal license that encourages both commercial and non-commercial use. There are no separate runtime fees or royalties.
+The OPC DA/AE Server SDK .NET is licensed under the MIT License. A very liberal license that encourages both commercial and non-commercial use. This version features:
+
+- Can be used for commercial purposes.
+- Full featured without limitations or restrictions.
+- There are no separate runtime fees or royalties needed.
+
+Not available for this version are:
+
+- Warranty of any kind. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+- Technical Support. See section Commercial Support for more information on how to get support.
+- Updates and fixes.
 
 #### Source Code
 The OPC DA/AE Server SDK .NET source code is available under a commercial source code license. There are no separate runtime fees or royalties.
